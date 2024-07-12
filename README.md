@@ -13,6 +13,9 @@ Nosso projeto visa monitorar o andamento de tarefas dentro de uma empresa para m
 
 ![4691303_mysql_icon](https://github.com/DudaPro1/Gerenciador/assets/153873210/c072b9d2-8ac8-41ca-b981-ac33bbfe8e82) MySQL
 
+![8674900_ic_fluent_javascript_regular_icon (1)](https://github.com/user-attachments/assets/5c29d462-2ea4-45e5-9161-f0b709595e52) JavaScript
+
+
 
 
 
